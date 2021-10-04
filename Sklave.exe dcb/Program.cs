@@ -33,7 +33,7 @@ namespace Sklave.exe_dcb
                .BuildServiceProvider();
 
             //secret
-            string token = "ODg2ODk3NjIzNjE1ODE1NzAw.YT8Rxw.0ElP8Ux1eWMa0NgIU1zYWihgMn0";
+            string token = "";
             //secret
 
             await RegisterCommandsAsync();
