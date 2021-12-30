@@ -33,7 +33,7 @@ namespace Sklave.exe_dcb
                .BuildServiceProvider();
 
             //secret
-            string token = "";
+            string token = "your discord token";
             //secret
 
             await RegisterCommandsAsync();
